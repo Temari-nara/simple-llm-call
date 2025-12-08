@@ -11,3 +11,4 @@ result = generator(
 
 
 print(result[0]["generated_text"])
+print("hello world")
